@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.carousel-item{
+    height: 500px;
+    }
+
+#navbar{
+	
+	padding: 1% 0% 1% 0%;
+	
+/*background-color: #fff;*/
+}
+
+#marquee{
+padding: 1% 0% 1% 0%;	
+}
+
+#carousel{
+padding:0% 0% 0% 0%;
+}
+
+#contact{	
+background-color:
+black;color: white;
+padding: 5% 0% 5% 0%;
+}
+
+/*About Section*/
+
+#about{
+	padding:10% 0% 10% 0%;
+	
+}
+
+
